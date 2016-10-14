@@ -1,3 +1,3 @@
 this is listing page.
 
-this is listinb by shakil.
+this is listing by shakil.
